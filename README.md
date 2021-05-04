@@ -16,9 +16,12 @@
 ## Demo
 Initializing the Server:
 ![Initializing the Server](./Assets/Demo/Demo_1_cropped.gif)
+[Video Link](./Assets/Demo/Demo_1.mp4)  
+<br>
 
 Using the API endpoints:
 ![Using the API endpoints](./Assets/Demo/Demo_2.gif)
+[Video Link](./Assets/Demo/Demo_2.mp4)
 
 ## Questions  
 My GitHub profile: [crichards17](https://github/crichards17)  
